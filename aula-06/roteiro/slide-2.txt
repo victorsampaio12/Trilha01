@@ -1,0 +1,1 @@
+Juntas, elas formam um ecossistema de empresas conectadas. Como esse ecossistema é robusto, dividimos esta apresentação em duas partes. Vamos começar por três das nossas principais BUs: Brisk, Truly e Vobys.
