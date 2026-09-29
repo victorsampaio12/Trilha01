@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Uso: ./gerar-aula.sh aula-01        (ou ./gerar-aula.sh todas)
 # Espera: aula-XX/slides/slide-N.png e aula-XX/audios/slide-N.mp3
+export LC_ALL=C
 # Gera:   aula-XX/video/Aula_Final.mp4 (1920x1080, H.264 + AAC)
 set -euo pipefail
 PAUSA="${PAUSA:-0.6}"   # silêncio (s) no fim de cada slide, para a troca não ficar abrupta
